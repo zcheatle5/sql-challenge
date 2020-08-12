@@ -1,13 +1,14 @@
 # SQL PROJECT
-Employee Database SQL Project
+Employee Database SQL Project using PostgreSQL
 
 ## Project Proposal
-Engineer a SQL Database using 6 CSV files containing data on Pewleet Hackard employees from the 1980s and 1990s
+Engineer a SQL Database using 6 CSV files containing data on Pewleet Hackard employees from the 1980s and 1990s.
 
 ## Methodology
-Develop an ERD that satisfies standard data normalization practices to map out table schema for each of the 6 CSV files
+Develop an ERD that satisfies standard data normalization practices to map out table schema for each of the 6 CSV files.
+Query the database to perform the following analysis;
 
-## Primary Data Analysis Objectives
+## Primary Data Analysis Objective
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
