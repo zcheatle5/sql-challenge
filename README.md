@@ -1,4 +1,4 @@
-# SQL PROJEC
+# SQL PROJE
 Employee Database SQL Project using PostgreSQL
 
 ## Project Proposal
